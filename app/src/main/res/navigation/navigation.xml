@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.radofigura.lottery.check.sk.fragments.nav.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_homeFragment_to_updatePhrase"
+            app:destination="@id/updatePhrase" />
+        <action
+            android:id="@+id/action_homeFragment_to_addLotteryTickets"
+            app:destination="@id/addLotteryTickets" />
+        <action
+            android:id="@+id/action_homeFragment_to_checkFullPhrase"
+            app:destination="@id/checkFullPhrase" />
+        <action
+            android:id="@+id/action_homeFragment_to_checkWinners"
+            app:destination="@id/checkWinners" />
+    </fragment>
+    <fragment
+        android:id="@+id/updatePhrase"
+        android:name="com.radofigura.lottery.check.sk.fragments.nav.UpdatePhrase"
+        android:label="fragment_update_phrase"
+        tools:layout="@layout/fragment_update_phrase" />
+    <fragment
+        android:id="@+id/addLotteryTickets"
+        android:name="com.radofigura.lottery.check.sk.fragments.nav.AddLotteryTickets"
+        android:label="fragment_add_lottery_tickets"
+        tools:layout="@layout/fragment_add_lottery_tickets" />
+    <fragment
+        android:id="@+id/checkFullPhrase"
+        android:name="com.radofigura.lottery.check.sk.fragments.nav.CheckFullPhrase"
+        android:label="fragment_check_full_password"
+        tools:layout="@layout/fragment_check_full_phrase" />
+    <fragment
+        android:id="@+id/checkWinners"
+        android:name="com.radofigura.lottery.check.sk.fragments.nav.CheckWinners"
+        android:label="fragment_check_winners"
+        tools:layout="@layout/fragment_check_winners" />
+</navigation>

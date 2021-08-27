@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Vattery</string>
+    <string name="cache_user_generated_id" translatable="false">cache_user_generated_id</string>
+    <string name="cache_agree_generated_id" translatable="false">cache_agree_generated_id</string>
+    <string name="string_check_full_phrase_no_phrases_traffic">No available results</string>
+    <string name="string_current_password_placeholder">No phrase</string>
+    <string name="string_add_your_tickets_disclaimer">You can add and manage your lottery tickets in here with no hyphens. You can add multiple lottery tickets. We will check their status</string>
+    <string name="string_ticket_format_hint" translatable="false">xxxxxxxxxxxx</string>
+    <string name="string_add_button_title">Add</string>
+    <string name="string_placeholder_search_query_result" translatable="false">0</string>
+    <string name="string_add_current_phrase_button_title">Add current phrase</string>
+    <string name="string_show_winners_button_title">Check winners</string>
+    <string name="string_send_new_phrase_button_title">Send phrase</string>
+    <string name="string_empty_password_input_error">Phrase could not be empty</string>
+    <string name="string_phrase_list_age">Data age [ms]</string>
+    <string name="string_current_password_disclaimer">Current phrase. \nWe are not responsiple for provided phrase.</string>
+    <string name="string_my_tickets_button_title">My lottery tickets</string>
+    <string name="string_add_phrase_rules_and_disclaimer">Please add new phrase shown on your TV screen. Phrases are saved with no accents. We are not responsible for provided passwords, nor technical issues or accidents. We are not responsible for anything at all. If any error occurs we are not responsible :)</string>
+    <string name="string_wrong_password_input_error">Phrase must match XXXX-XXXX-XXXX format</string>
+    <string name="string_dialog_title">About</string>
+    <string name="string_dialog_message">"App was created as tool to ease overview of \'loteria Byt zdravy je vyhra\' (lottery). \n\nCreator of this app is not responsible for lottery, nor he organized it. \n\nWe do not collect any personal data.\n\nLottery winners data are scraped from MFSR web.\n\nLottery tickets data are saved locally in your device.\n\nAnonymize data (ID) is generated automatically when app is started and is saved in your device.\nThis ID is sent with phrase submission to prevent SPAM (ID can be deleted in your app settings and will be deleted when app is uninstalized) \n\nYou can use this app only if you are 18 years old or older. By clicking OK you declare that you are 18 years old or older.\n\nI am not responsible for any damage, or issues with your device, TV broadcast or submited phrases.\n\nSource code is publicly available on github\nhttps://github.com/rado08271/vattery\n\nMFSR Official website\nhttps://www.mfsr.sk/\n\nIcons are available at\nhttps://flaticon.com\n\n\nBy clicking OK you agree."</string>
+    <string name="string_prase_sent_succesfully_toast">Phrase sucessfully sent</string>
+    <string name="string_password_numbers_empty_error">Phrase cannot contain any numbers and cannot be empty</string>
+    <string name="string_add_phrase_hint">Please provide phrase, that you currently see on TV Screen ...</string>
+    <string name="string_my_ticket_won_status">Won</string>
+    <string name="string_my_ticket_active_status">Active</string>
+</resources>

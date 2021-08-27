@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65919755755",
+    "project_id": "vateria-1b05d",
+    "storage_bucket": "vateria-1b05d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65919755755:android:e47a544a520babfcaa25ae",
+        "android_client_info": {
+          "package_name": "com.radofigura.lottery.check.sk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65919755755-sf4c0f2p3e27boskta3hjd2b6aqh0bff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXHruwZXerkz1-ntY3_MdTn63ODbFtJYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65919755755-sf4c0f2p3e27boskta3hjd2b6aqh0bff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

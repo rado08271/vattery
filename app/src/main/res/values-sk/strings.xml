@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_check_full_phrase_no_phrases_traffic">Žiadne výsledky nie sú k dispozícií</string>
+    <string name="string_current_password_disclaimer">Aktuálne heslo (tvorca aplikácie nie je zodpovedný za jeho správnosť)</string>
+    <string name="string_current_password_placeholder">Žiadne heslo</string>
+    <string name="string_add_your_tickets_disclaimer">Môžeš pridať a spravovať viaceré lístky do lotérie bez pomlčiek. Budú zobrazené aj na hlavnej stránke a sledovaný ich stav.</string>
+    <string name="string_add_button_title">Pridať</string>
+    <string name="string_add_current_phrase_button_title">Pridať aktuálne heslo</string>
+    <string name="string_show_winners_button_title">Prezrieť výhercov</string>
+    <string name="string_my_tickets_button_title">Moje žreby do lotérie</string>
+    <string name="string_add_phrase_rules_and_disclaimer">Prosim zadaj správne heslo, ktoré vidíš na televíznej obrazovke, o diakritiku sa neboj, hesla budú zobrazené bez nej. Tvorca aplikácie nie je zodpovedný za správnosť hesla, nezodpovedá ani za technicke chyby, ani za vzniknuté škody a tak celkovo nič nie je jeho chyba :)</string>
+    <string name="string_send_new_phrase_button_title">Odoslať heslo</string>
+    <string name="string_empty_password_input_error">Heslo nesmie byt prázdne</string>
+    <string name="string_wrong_password_input_error">Heslo musí byť v tvare XXXX-XXXX-XXXX</string>
+    <string name="string_phrase_list_age">Vek dát [ms]</string>
+    <string name="string_dialog_title">O aplikacii</string>
+    <string name="string_dialog_message">"Aplikácia je vytvorená za účelom uľahčenia prehľadu \'lotérie Byť zdravý je výhra\' (ďaľej lotérie).\n\nTvorca aplikácie nie je organizátorom, správcom ani sa nijak nepodieľa na zabezpečovaní priebehu súťaže\n\nAplikácia neodosiela a nezbiera žiadne osobné údaje. \n\nDáta o výhercoch pochádzjú z webu MFSR.\n\nÚdaje o lotériových lístkoch sú uložené lokálne v tvojom zariadení.\n\nAnonymizovaný údaj (ID) je vygenerovaný automaticky pri zapnutí aplikácie a anonymne uložený v tvojom zariadení.\nJe odosielaný pre účely predchádzania SPAMU pri posielaní nového hesla (tieto údaje je možné vymazať v nastaveniach aplikácie a pri odinštalovaní aplikácie)\n\nAplikácia je určená pre osoby staršie ako 18 rokov. Jej používaním prehlasuješ, že máš viac ako 18 rokov.\n\nTvorca aplikácie nie je zodpovedný za vzniknuté škody, televízne vysielanie ani za zobrazené heslá. \n\nAplikácia a zdrojové súbory sú voľne dostupné na githube\nhttps://github.com/rado08271/vattery\n\nOficiálny web MFSR: \nhttps://www.mfsr.sk/\n\nObrázky v aplikácii pochádzaju z\nhttps://flaticon.com\n\n\nKliknutím na OK súhlasite."</string>
+    <string name="string_password_numbers_empty_error">Heslo nesmie obsahovať žiadne číslice a nesmie byť prázdne</string>
+    <string name="string_prase_sent_succesfully_toast">Úspešne odoslané heslo</string>
+    <string name="string_add_phrase_hint">Zadaj heslo, ktore aktualne vidis na obrazovke ...</string>
+    <string name="string_my_ticket_won_status">Výherný</string>
+    <string name="string_my_ticket_active_status">Aktívny</string>
+</resources>
